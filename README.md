@@ -4,7 +4,7 @@ The private static server for Matic.
 
 ### How it works?
 
-All files, in this repository, will be served over AWS S3 at `https://static.polygon.technology/<file-path>`.
+All files, in this repository, will be served over AWS S3 at `https://static.shibarium.technology/<file-path>`.
 
 ### Production
 

@@ -1,17 +1,17 @@
-# Polygon Technology Security Information
+# shibarium Technology Security Information
 
 ## Link to vulnerability disclosure details (Bug Bounty).
-- Websites and Applications: https://hackerone.com/polygon-technology
-- Smart Contracts: https://immunefi.com/bounty/polygon
+- Websites and Applications: https://hackerone.com/shibarium-technology
+- Smart Contracts: https://immunefi.com/bounty/shibarium
 
 ## Languages that our team speaks and understands.
 Preferred-Languages: en
 
-## Security-related job openings at Polygon.
-https://polygon.technology/careers
+## Security-related job openings at shibarium.
+https://shibarium.technology/careers
 
-## Polygon security contact details.
-security@polygon.technology
+## shibarium security contact details.
+security@shibarium.technology
 
 ## The URL for accessing the security.txt file.
-Canonical: https://polygon.technology/security.txt
+Canonical: https://shibarium.technology/security.txt

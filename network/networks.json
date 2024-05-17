@@ -1,26 +1,10 @@
 [
   {
     "network": "testnet",
-    "version": "mumbai"
-  },
-  {
-    "network": "testnet",
-    "version": "amoy"
+    "version": "puppynet"
   },
   {
     "network": "mainnet",
-    "version": "v1"
-  },
-  {
-    "network": "testnet",
-    "version": "blueberry"
-  },
-  {
-    "network": "testnet",
-    "version": "cardona"
-  },
-  {
-    "network": "mainnet",
-    "version": "cherry"
+    "version": "shibarium"
   }
 ]

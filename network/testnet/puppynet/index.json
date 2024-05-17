@@ -1,0 +1,108 @@
+{
+  "Main": {
+    "NetworkName": "Ethereum",
+    "Network": "sepolia",
+    "StakingAPI": "",
+    "Explorer": "",
+    "SupportsEIP1559": true,
+    "Contracts": {
+      "Tokens": {
+        "BoneToken": "0xcA94c8B16209CCBAfCFeab9D7649DdaEcD444007"
+      },
+      "BytesLib": "0x9b42a2f7915124590c80cE39256E616c7929E131",
+      "Common": "0x69120F2Ad38593c84a80973260B1eCdad4085633",
+      "ECVerify": "0xE0D82f4ED49776a2bacE6a3104713d2a5581e7BA",
+      "Merkle": "0x372d4d9078672C63a0bf95EF27E54432B557d5C1",
+      "MerklePatriciaProof": "0xDC7fB4E09ffdA31bb4420572898f0AC5C2d1B28f",
+      "PriorityQueue": "0x074A2c7a642B0e3062B865544eeafB8aa57A298f",
+      "RLPEncode": "0xCCBD9F4558e561a9D68B7397a21aAa6E50ed8884",
+      "RLPReader": "0x3B482d68Fafb477Fd4d9E971911D1e1551807461",
+      "SafeMath": "0xB67afe6194D05Af68C013DE94632b7f3B6Bd7fD3",
+      "TransferWithSigUtils": "0x573efA23EE0dE433BF6f31fbAEfeB38C63FFdA4b",
+      "Governance": "0xf029EC373a049CEdE996CdEfD6f168B0321fA314",
+      "GovernanceProxy": "0x1FFEdE2984dd324C0E63EdFfc44d5b6795826bfC",
+      "Registry": "0xC4d2Cf0423c326BC9d97A914B7FDf503805C37c7",
+      "RootChain": "0x4ED820A5EbE09D30e1f67052437e664abaAAd73C",
+      "RootChainProxy": "0x282704687674A2adeeBC572AE2947065a0C98607",
+      "ValidatorShareFactory": "0x998A1Fb3380b81d3A008c2D7D027754750Bd7291",
+      "StakingInfo": "0xf4A7Ab6dC0A3400f21269E0187022582c3C99969",
+      "StakingNFT": "0x76033046A292e53b96c77C574FEA36450fFBdA0F",
+      "StakeManager": "0x9f65025D9B3d39BE6eef28cc6B3C4b654A913c8A",
+      "StakeManagerProxy": "0xC0568572887E9687D7b57c1fC83332F8d1d38A6a",
+      "StakeManagerExtension": "0x0C477AE2E8E5ce1666468e44b066542Fa46f9F72",
+      "SlashingManager": "0xEb163eeE996923e05d2efDDA28A82d950CBBD9Cb",
+      "ValidatorShare": "0xeDE356b29974443E2ff739CAE0A2237D0C1c83B3",
+      "ValidatorRegistry": "0x9ab1fF7a3c395EE09b49aB2f7560145D239dFE15",
+      "StateSender": "0x0844c0ca42F24972e89233F476B033F763C2355a",
+      "DepositManager": "0x05959566bC0B4A743F36e0aF030C007e65a2141A",
+      "DepositManagerProxy": "0x78FB39bd541BD09c5e1D47b2bBB28A7279c9d196",
+      "WithdrawManager": "0xa93BF082464c0649978f95fb151186AC02E95bDB",
+      "ExitNFT": "0xAc720702Df63fa92416B3dEB24Dc4a1854f73330",
+      "WithdrawManagerProxy": "0x5475F5823168bAf8eBe0bC7A195ab0d7BebCAAC5",
+      "EventsHub": "0x12CF8bf22Be843f8c065a2474d1C439daDD238b6",
+      "EventsHubProxy": "0xeb62CAd6C7481d2137B0DF873592581c8abb1baF",
+      "ERC20PredicateBurnOnly": "0x367a6722F2e2b09b6024A1C05deAD45e68CE385A",
+      "ERC721PredicateBurnOnly": "0x12398F6FD9c9131891DD1621715DF11Ca0eDDd0e"
+    },
+    "POSContracts": {
+      "Merkle": "0x81D1f6a348b2eC5035C51084B075C0C18e33be39",
+      "MerklePatriciaProof": "0x507D15D089dD99aCF53a7197C9784cAd2b4f1546",
+      "RLPReader": "0x20aD013Cc3E24a0cc6C0A34410787e19E8AE31Dd",
+      "SafeERC20": "0x1a48F5a6451621fA810d27B2C610753Eb3E7963d",
+      "SafeMath": "0x61f1Bc2D14737930323dAffF682349aE0c0df491",
+      "RootChainManager": "0x32c995dD6d3Dcf79CF22ad378447FCd55e33dB5A",
+      "RootChainManagerProxy": "0xe13bE5020FDE8361D84C48dE85f1DD1CfFaC435F",
+      "ERC20Predicate": "0xCf5605E38b12267BCD728fE52bC3d57915765920",
+      "ERC20PredicateProxy": "0x00BFE037Ad96420a06eb077BE0aE8b1372502F37",
+      "ERC721Predicate": "0xC741931BD9F8197eA832Dd48a2256264591f299b",
+      "ERC721PredicateProxy": "0x48B9dc0aA5129dfd4B662a4c74F58D1770B1F9CE",
+      "MintableERC721Predicate": "0x884A38C38F77E2DFdfb455c5850546fA8186D068",
+      "MintableERC721PredicateProxy": "0x11395B79b17CAcC4bE57206131B449D5Bff9913A",
+      "ERC1155Predicate": "0xd9542E47448e139E57cCD346EF1237e940f04cb3",
+      "ERC1155PredicateProxy": "0xA281E54b0e722184DA9B1913CF313354a58c0324",
+      "EtherPredicate": "0x3a26aBfe533A0eEAB34D420EB8F36E15c0177Fee",
+      "EtherPredicateProxy": "0x29f1d1B330613508fC0cDa6Cf7Ce878c780C5f1C",
+      "DummyStateSender": "0x3e06Ac67167b2620A74484699F96b2a92F3b658C",
+      "DummyERC20": "0x82f19ed96848875D4a97dd51B60f72F16f9102c8",
+      "DummyERC721": "0xA3Ae96D03F6876Ce4a8F8aE280d99c419A614CA4",
+      "DummyMintableERC721": "0xaF74CaEab5eABA260F56A20aB029DFE09a8b57D1",
+      "DummyERC1155": "0x44f15cEa667C2b3e4609afb74e60f06950E4FD68"
+    }
+  },
+  "Shibarium": {
+    "NetworkName": "Shibarium",
+    "ChainId": "157",
+    "Rpc": "",
+    "Explorer": "",
+    "NetworkApi": "",
+    "SupportsEIP1559": true,
+    "Contracts": {
+      "ChildChain": "0x69120F2Ad38593c84a80973260B1eCdad4085633",
+      "Tokens": {
+        "BoneToken": "0x0000000000000000000000000000000000001010"
+      }
+    },
+    "POSContracts": {
+      "ChildChainManager": "0x1FFEdE2984dd324C0E63EdFfc44d5b6795826bfC",
+      "ChildChainManagerProxy": "0xC4d2Cf0423c326BC9d97A914B7FDf503805C37c7",
+      "Tokens": {
+        "DummyERC20": "0x282704687674A2adeeBC572AE2947065a0C98607",
+        "DummyMintableERC20": "0x998A1Fb3380b81d3A008c2D7D027754750Bd7291",
+        "DummyERC721": "0xf4A7Ab6dC0A3400f21269E0187022582c3C99969",
+        "DummyMintableERC721": "0x76033046A292e53b96c77C574FEA36450fFBdA0F",
+        "DummyERC1155": "0x9f65025D9B3d39BE6eef28cc6B3C4b654A913c8A",
+        "DummyMintableERC1155": "0xC0568572887E9687D7b57c1fC83332F8d1d38A6a",
+        "MaticWETH": "0x0C477AE2E8E5ce1666468e44b066542Fa46f9F72"
+      }
+    },
+    "GenesisContracts": {
+      "BorValidatorSet": "0x0000000000000000000000000000000000001000",
+      "StateReceiver": "0x0000000000000000000000000000000000001001"
+    }
+  },
+  "Heimdall": {
+    "ChainId": "heimdall-157",
+    "Rpc": "",
+    "Rest": ""
+  }
+}

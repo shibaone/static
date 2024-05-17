@@ -20,5 +20,8 @@
     "meta",
     "addresses",
     "abi"
-  ]
+  ],
+  "dependencies": {
+    "@maticnetwork/meta": "^2.4.59"
+  }
 }
