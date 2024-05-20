@@ -7,8 +7,18 @@
     "SupportsEIP1559": true,
     "Contracts": {
       "Tokens": {
-        "BoneToken": "0xcA94c8B16209CCBAfCFeab9D7649DdaEcD444007"
-      },
+        "DAI": "0x090d346d1662313f97d2072cf63c21409f2c848c",
+        "SHIB": "0xC6980A4Ad666D111d39Ef9F6e8b36EfeD0985121",
+        "LEASH": "0xf973D5513028A387f592d05C6F162b8298a407a0",
+        "USDT": "0x0048ab82cce2aF4c36d2C6e8Bf7711b8615BE277",
+        "USDC": "0x2cFBdDc477876EcEB618eD59F8C742c5292CfC2B",
+        "WBTC": "0xE950c7eA44A8cd9C0db01F3392Cb284DaA75b1A9",
+        "BONE": "0xcA94c8B16209CCBAfCFeab9D7649DdaEcD444007",
+        "ETH": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+        "WBONE": "0x41c3F37587EBcD46C0F85eF43E38BcfE1E70Ab56",
+        "xFUND": "0xb07C72acF3D7A5E9dA28C56af6F93862f8cc8196",
+        "FUND": "0xAfE70A1985ebDefbDCaeedba045d66091C38E1B1"
+    },
       "BytesLib": "0x9b42a2f7915124590c80cE39256E616c7929E131",
       "Common": "0x69120F2Ad38593c84a80973260B1eCdad4085633",
       "ECVerify": "0xE0D82f4ED49776a2bacE6a3104713d2a5581e7BA",
@@ -69,8 +79,8 @@
       "DummyERC1155": "0x44f15cEa667C2b3e4609afb74e60f06950E4FD68"
     }
   },
-  "Shibarium": {
-    "NetworkName": "Shibarium",
+  "puppynet": {
+    "NetworkName": "puppynet",
     "ChainId": "157",
     "Rpc": "",
     "Explorer": "",
@@ -79,8 +89,19 @@
     "Contracts": {
       "ChildChain": "0x69120F2Ad38593c84a80973260B1eCdad4085633",
       "Tokens": {
-        "BoneToken": "0x0000000000000000000000000000000000001010"
-      }
+        "DAI": "0x12CF8bf22Be843f8c065a2474d1C439daDD238b6",
+        "SHIB": "0xAc720702Df63fa92416B3dEB24Dc4a1854f73330",
+        "LEASH": "0x367a6722F2e2b09b6024A1C05deAD45e68CE385A",
+        "USDT": "0x236a6f60B554813486D84d581747217d77Af05ff",
+        "USDC": "0x63E22542204dA9978218FbB3C10E1c0f6D1DC2a7",
+        "WBTC": "0x3a042493688489d3482e39435c2F6C8cF85a9d54",
+        "BONE": "0x0000000000000000000000000000000000001010",
+        "ETH": "0x0C477AE2E8E5ce1666468e44b066542Fa46f9F72",
+        "WBONE": "0x41c3F37587EBcD46C0F85eF43E38BcfE1E70Ab56",
+        "xFUND": "0x78f022230EaE6E05D8739E83a14b0Cf1D00CfaD5",
+        "FUND": "0x27Ad57c007fa9Ef6BC4D2846f341e316e0445dEe"
+    }
+        
     },
     "POSContracts": {
       "ChildChainManager": "0x1FFEdE2984dd324C0E63EdFfc44d5b6795826bfC",
