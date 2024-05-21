@@ -2,8 +2,8 @@
   "Main": {
     "NetworkName": "Ethereum",
     "Network": "sepolia",
-    "StakingAPI": "",
-    "Explorer": "",
+    "StakingAPI": "https://beta-shibarium-api.shib.io/",
+    "Explorer": "https://sepolia.etherscan.io/",
     "SupportsEIP1559": true,
     "Contracts": {
       "Tokens": {
@@ -82,9 +82,8 @@
   "puppynet": {
     "NetworkName": "puppynet",
     "ChainId": "157",
-    "Rpc": "",
-    "Explorer": "",
-    "NetworkApi": "",
+    "Rpc": "https://puppynet.shibrpc.com",
+    "Explorer": "https://puppyscan.shib.io/",
     "SupportsEIP1559": true,
     "Contracts": {
       "ChildChain": "0x69120F2Ad38593c84a80973260B1eCdad4085633",
@@ -123,7 +122,7 @@
   },
   "Heimdall": {
     "ChainId": "heimdall-157",
-    "Rpc": "",
-    "Rest": ""
+    "Rpc": "https://tendermint-puppynet-api.shibrpc.com",
+    "Rest": "https://heimdall-puppynet-api.shibrpc.com"
   }
 }

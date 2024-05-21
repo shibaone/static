@@ -2,9 +2,9 @@
   "Main": {
     "NetworkName": "Ethereum",
     "ChainId": 1,
-    "StakingAPI": "",
+    "StakingAPI": "https://shibarium-api.shib.io",
     "Explorer": "https://etherscan.io",
-    "SubgraphUrl": "",
+    "SubgraphUrl": "https://thegraph.com/explorer/subgraphs/CWHxeaQWCSchW1BX5JHivrjythBwJYCxgkjGV6EhKwcs?v=0&view=Playground&chain=mainnet",
     "SupportsEIP1559": true,
     "Contracts": {
       "BytesLib": "0xd665c4f0C5AfeB66Bb057fC84c19620a0143B99f",
@@ -93,6 +93,10 @@
     "GenesisContracts": {
       "BorValidatorSet": "0x0000000000000000000000000000000000001000",
       "StateReceiver": "0x0000000000000000000000000000000000001001"
+    },
+    "ShibaswapContracts": {
+      "Router": "0xEF83bbB63E8A7442E3a4a5d28d9bBf32D7c813c8",
+      "Factory": "0xc2b4218F137e3A5A9B98ab3AE804108F0D312CBC"
     }
   },
   "Heimdall": {
