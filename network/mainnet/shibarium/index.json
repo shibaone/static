@@ -63,6 +63,17 @@
       "ERC1155PredicateProxy": "0x0057bed57066F61c64DACB395B38c6E1792e03B8",
       "EtherPredicate": "0x3f3bF9Ce73CE5a152561f4BF0306de3E3526f8FA",
       "EtherPredicateProxy": "0xc3897302aB4B42931cB4857050Fa60f53B775870"
+    },
+    "Shibaswap-v1": {
+      "Router": "0x03f7724180AA6b939894B5Ca4314783B0b36b329",
+      "Factory": "0x115934131916C8b277DD010Ee02de363c09d037c"
+    },
+    "Shibaswap-v2": {
+      "Factory": "0xD9CE49caf7299DaF18ffFcB2b84a44fD33412509",
+      "NonFungiblePositionManager": "0x23dF6504Ab84adC2eA9eBd043b89b8dDc72916E0",
+      "Quoter": "0x486dD4Ff6abD5B2f728192cda291D2ffb611CBD1",
+      "SwapRouter": "0xB2eCc25C0B3af0039d4d9dDDfCeC19e958618963",
+      "V2Migrator": "0xbe2B8be84487c091f4A3Fe1FC07AcdFa277dA9ec"
     }
   },
   "": {
@@ -82,7 +93,7 @@
         "BONE": "0x0000000000000000000000000000000000001010",
         "LEASH": "0x65218A41Fb92637254B4f8c97448d3dF343A3064",
         "SHIB": "0x495eea66B0f8b636D441dC6a98d8F5C3D455C4c0"
-    }
+      }
     },
     "POSContracts": {
       "ChildChainManager": "0x5822EDe90177d2A4888379EEb0f2d39520914Cac",
@@ -92,13 +103,20 @@
       "BorValidatorSet": "0x0000000000000000000000000000000000001000",
       "StateReceiver": "0x0000000000000000000000000000000000001001"
     },
-    "ShibaswapContracts": {
+    "Heimdall": {
+    "ChainId": "heimdall-109",
+    "API": "https://heimdall-api.shibrpc.com"
+  },
+    "Shibaswap-v1": {
       "Router": "0xEF83bbB63E8A7442E3a4a5d28d9bBf32D7c813c8",
       "Factory": "0xc2b4218F137e3A5A9B98ab3AE804108F0D312CBC"
     }
   },
-  "Heimdall": {
-    "ChainId": "heimdall-109",
-    "API": "https://heimdall-api.shibrpc.com"
-  }
+  "Shibaswap-v2": {
+      "Factory": "0x2996B636663ddeBaE28742368ed47b57539C9600",
+      "NonFungiblePositionManager": "0x8Ab443Be082105AE444337b49E1FD8D23c2631Dc",
+      "Quoter": "0x9dab43E3DbEF5241f491818077E12E21b02D7035",
+      "SwapRouter": "0xd0d020fd91aB1Ab2CbbdbfBde2Fd9C5e4D5896b8",
+      "V2Migrator": "0xf2eA936961c29d6737bF7DF61cC3134684447045"
+    }
 }
