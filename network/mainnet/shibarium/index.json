@@ -43,7 +43,10 @@
       "ERC721PredicateBurnOnly": "0x9df56e63CD340F0f3D811dd2aAAEEa42ec27D5a3",
       "MintableERC721Predicate": "0xB5E7Fb63D2b65d607d2dd292b5d3bEf16e792405",
       "Marketplace": "0xf34527aF40a8b6861295c84bfB27E8d13090413F",
-      "BoneToken": "0x9813037ee2218799597d83D4a5B6F3b6778218d9"
+      "BoneToken": "0x9813037ee2218799597d83D4a5B6F3b6778218d9",
+      "Tokens": {
+        "BoneToken": "0x9813037ee2218799597d83D4a5B6F3b6778218d9"
+      }
     },
     "POSContracts": {
       "Merkle": "0xB4A88508adc1E5543b1843ea1C39395E2FD3C853",
@@ -55,7 +58,7 @@
       "RootChainManagerProxy": "0x08C4b60fda8aA6239b7de7d165BCF6F1686Cad82",
       "ERC20Predicate": "0xfffC2D781999F09A8b127f8Ef419a3EeD2EDa1dd",
       "ERC20PredicateProxy": "0x6Aca26bFCE7675FF71C734BF26C8c0aC4039A4Fa",
-      "ERC721Predicate": "0x67281E19c31B19f5450d1F218AA29e036C606fC0",
+      "ERC721Predicate": "0xe0f4555Fcffb181B1D7566d89200105226F29580",
       "ERC721PredicateProxy": "0x98C831cFB18852f7deB3E3a970e907475b49730f",
       "MintableERC721Predicate": "0x37A9b4e7c327c449858dba9F5e39CE6771cBc31b",
       "MintableERC721PredicateProxy": "0x03c77e03dB8183C8a9eFC178eC1Dfd98c1EfD665",
@@ -76,7 +79,7 @@
       "V2Migrator": "0xbe2B8be84487c091f4A3Fe1FC07AcdFa277dA9ec"
     }
   },
-  "": {
+  "Shibarium": {
     "NetworkName": "Shibarium",
     "ChainId": 109,
     "RPC": "https://shibrpc.com",
@@ -85,6 +88,7 @@
     "Contracts": {
       "ChildChain": "0x32262DDD01fFF9bb367586317A5e40Dbe2bCcbe2",
       "Tokens": {
+        "BoneToken": "0x0000000000000000000000000000000000001010",
         "WBONE": "0xC76F4c819D820369Fb2d7C1531aB3Bb18e6fE8d8",
         "USDC": "0xf010f12dcA0b96D2d6685bf4dB3dbB4Ad500B6Ad",
         "USDT": "0xaB082b8ad96c7f47ED70ED971Ce2116469954cFB",
